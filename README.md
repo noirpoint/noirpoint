@@ -1,1 +1,1 @@
-### 🐍 I’m currently learning **Python**
+### i’m currently learning **Go**
